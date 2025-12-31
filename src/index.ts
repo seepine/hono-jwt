@@ -5,6 +5,7 @@ import { HTTPException } from 'hono/http-exception'
 import type { Context } from 'hono'
 import { getCookie, getSignedCookie } from 'hono/cookie'
 import ms from 'ms'
+export * from './types'
 
 let opts: JwtOpts
 
