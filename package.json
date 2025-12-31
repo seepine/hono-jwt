@@ -1,6 +1,6 @@
 {
   "name": "@seepine/hono-jwt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hono JWT middleware — 验证与签发 JSON Web Tokens",
   "license": "MIT",
   "type": "module",
